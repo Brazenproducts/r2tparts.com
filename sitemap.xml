@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://r2tparts.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://r2tparts.com/best-rivian-r2t-parts-and-accessories.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://r2tparts.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://r2tparts.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://r2tparts.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://r2tparts.com/r2tparts-trends-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://r2tparts.com/r2tparts-tested-ranked-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://r2tparts.com/r2tparts-compared-2026.html</loc><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://r2tparts.com/r2tparts-guide-2026.html</loc><lastmod>2026-05-19</lastmod></url>
-  <url><loc>https://r2tparts.com/r2tparts-what-buyers-need-2026.html</loc><lastmod>2026-05-21</lastmod></url>
-  <url><loc>https://r2tparts.com/r2tparts-worth-the-upgrade-2026.html</loc><lastmod>2026-05-23</lastmod></url>
-  <url><loc>https://r2tparts.com/best-r2tparts-without-overpaying.html</loc><lastmod>2026-05-25</lastmod></url>
-  <url><loc>https://r2tparts.com/r2tparts-practical-guide-2026.html</loc><lastmod>2026-05-27</lastmod></url>
-  <url><loc>https://r2tparts.com/r2tparts-buyers-handbook-2026.html</loc><lastmod>2026-05-29</lastmod></url>
-  <url><loc>https://r2tparts.com/r2tparts-reviewed-2026.html</loc><lastmod>2026-06-01</lastmod></url>
-  <url><loc>https://r2tparts.com/how-to-pick-r2tparts-2026.html</loc><lastmod>2026-06-04</lastmod></url>
-  <url><loc>https://r2tparts.com/r2tparts-explained-2026.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://r2tparts.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
